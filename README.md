@@ -72,7 +72,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://d33wubrfki0l68.cloudfront.net/1fd294819c1ed43329946d0d08c4b6ce8d6f9693/004ea/images/logo-small.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://nestjs.com/img/logo_text.svg" alt="nestjs" width="40" height="40"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -94,8 +94,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
